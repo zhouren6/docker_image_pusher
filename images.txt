@@ -7,3 +7,4 @@ xhofe/alist:latest
 mzz2017/v2raya
 dreamacro/clash-premium
 dreamacro/clash
+wangbinxingkong/fast
